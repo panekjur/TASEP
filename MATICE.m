@@ -1,5 +1,9 @@
 function [A,D,N,T] = MATICE(n)
-
+%ffdasf
+%fdsafdsa
+%fdfdfas
+%peter ahahahha
+% je ahahaha
 time = 400;
 p = 0.8;
 T = cumsum(-log(rand(time,n))/p);
